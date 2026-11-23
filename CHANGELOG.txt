@@ -1,0 +1,5 @@
+v1.0
+- README.txt, presentation.txt
+- participants.txt
+- programme.txt
+- budget.txt
